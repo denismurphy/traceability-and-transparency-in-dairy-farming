@@ -40,3 +40,11 @@ Despite the potential benefits of blockchain technology in the dairy farming ind
 ## Conclusion
 
 Blockchain technology has the potential to revolutionize the way that the dairy farming industry operates, by increasing transparency and traceability in the supply chain of dairy products. However, several challenges and considerations must be addressed in order to successfully implement blockchain in the dairy farming industry. This serves as a valuable starting point for further research and experimentation in this area.
+
+## Authors
+
+-   **Denis Murphy**
+
+## License
+
+This project is licensed under the MIT License
