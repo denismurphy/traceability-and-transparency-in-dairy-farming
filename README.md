@@ -1,5 +1,5 @@
 
-# Traceability and Transparency in Dairy Farming: Blockchain
+## Traceability and Transparency in Dairy Farming: Blockchain
 
 Here i explore the use of blockchain technology in the dairy farming industry. The goal is to examine the potential benefits of blockchain technology in increasing traceability and transparency in the supply chain of dairy products, and to identify the key challenges and considerations for implementation.
 
