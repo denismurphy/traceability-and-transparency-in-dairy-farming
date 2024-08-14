@@ -1,10 +1,10 @@
-# 🥛 Traceability and Transparency in Dairy Farming
+# 🐮 Traceability and Transparency in Dairy Farming
 
-## 🔍 Overview
+## 🐄 Overview
 
 This document explores how technology could enhance traceability and transparency in the dairy product supply chain. It examines potential applications, challenges, and key considerations for implementation.
 
-## 🌾 Background
+## 🥛 Background
 
 Dairy farming is a crucial global industry for food security and nutrition. However, ensuring product safety, quality, and supply chain clarity remains challenging. Technology offers potential solutions, providing robust, tamper-proof records and enabling real-time product tracking from farm to consumer.
 
