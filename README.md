@@ -34,10 +34,6 @@ Key issues to address:
 
 Technology has the potential to revolutionize dairy farming operations, enhancing supply chain transparency and traceability. Effective implementation requires addressing various challenges and considerations. This document serves as a foundation for further research and experimentation in this field.
 
-## ✍️ Author
-
-- **Denis Murphy**
-
 ## 📄 License
 
 This project is licensed under the MIT License.
